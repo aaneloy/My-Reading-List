@@ -9,6 +9,8 @@ Stuff I'm currently reading...
 
 ## Cheat-Sheets
 * Machine Learning Cheat-Sheet ([pdf](https://github.com/soulmachine/machine-learning-cheat-sheet))
+* [TheAlgorithms](https://github.com/TheAlgorithms)
+* Excel Hacks[pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Cheat-Sheet/1641445608674.pdf)
 
 
 
