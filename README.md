@@ -2,7 +2,7 @@
 Stuff I'm currently reading...
 
 ## Books, Lectures, Notes
-* Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI ([arXiv](https://arxiv.org/abs/2201.00650))
+* Deep Learning Interviews ([arXiv](https://arxiv.org/abs/2201.00650))
 * Mathematics for Machine Learning ([pdf](http://gwthomas.github.io/docs/math4ml.pdf))
 * Pattern Recognition and Machine Learning ([pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=aWFtYW5kaS5ldXxpc2N8Z3g6MjViZDk1NGI1NjQzOWZiYQ))
 * Cracking the Coding Interview ([amazon](https://www.amazon.ca/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=asc_df_0984782850/?tag=googleshopc0c-20&linkCode=df0&hvadid=293006031037&hvpos=&hvnetw=g&hvrand=13483680911297688222&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001206&hvtargid=pla-388890317700&psc=1))
