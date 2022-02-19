@@ -8,7 +8,7 @@ Stuff I'm currently reading...
 * Cracking the Coding Interview ([amazon](https://www.amazon.ca/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=asc_df_0984782850/?tag=googleshopc0c-20&linkCode=df0&hvadid=293006031037&hvpos=&hvnetw=g&hvrand=13483680911297688222&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001206&hvtargid=pla-388890317700&psc=1))
 * Hands-On Data Visualization ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code.pdf))
 * Python for Everybody ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/pythonlearn.pdf))
-* Introduction to Machine Learning ([pdf]())
+* Introduction to VAE ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/1906.02691.pdf))
 
 
 ## Cheat-Sheets
