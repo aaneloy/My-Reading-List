@@ -17,7 +17,7 @@ Stuff I'm currently reading...
 * Excel Hacks ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Cheat-Sheet/1641445608674.pdf))
 
 ## Interviews
-* SQL ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Interviews/SQLInterviewPrep.docx))
+* SQL Interview Resources ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Interviews/SQLInterviewPrep.docx))
 
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
