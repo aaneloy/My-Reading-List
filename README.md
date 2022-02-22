@@ -19,5 +19,8 @@ Stuff I'm currently reading...
 ## Interviews
 * SQL Interview Resources ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Interviews/SQLInterviewPrep.docx))
 
+##Useful Websites
+* [Colah Blog](https://colah.github.io/)
+* [Probability Distribution Explorer](https://distribution-explorer.github.io/)
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
