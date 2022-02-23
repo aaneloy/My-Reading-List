@@ -19,8 +19,11 @@ Stuff I'm currently reading...
 ## Interviews
 * SQL Interview Resources ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Interviews/SQLInterviewPrep.docx))
 
-##Useful Websites
+## Useful Websites
 * [Colah Blog](https://colah.github.io/)
 * [Probability Distribution Explorer](https://distribution-explorer.github.io/)
+
+## Papers with Code
+* [CVPR 2021](https://github.com/amusi/CVPR2021-Papers-with-Code)
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
