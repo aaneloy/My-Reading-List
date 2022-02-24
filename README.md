@@ -26,4 +26,8 @@ Stuff I'm currently reading...
 ## Papers with Code
 * [CVPR 2021](https://github.com/amusi/CVPR2021-Papers-with-Code)
 
+
+## Courses
+* [CS109:Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
+
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
