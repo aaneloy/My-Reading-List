@@ -18,6 +18,8 @@ Stuff I'm currently reading...
 * Algorithms in Python ([Repo](https://github.com/keon/algorithms))
 * Data Structure and Algorithms ([repo](https://github.com/TheAlgorithms/Python))
 * Machine Learning Resource ([repo](https://github.com/josephmisiti/awesome-machine-learning))
+* Dimension Reduction ([repo](https://github.com/heucoder/dimensionality_reduction_alo_codes))
+
 
 ## Interviews
 * SQL Interview Resources ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Interviews/SQLInterviewPrep.docx))
