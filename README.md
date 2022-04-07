@@ -17,7 +17,7 @@ Stuff I'm currently reading...
 * Excel Hacks ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Cheat-Sheet/1641445608674.pdf))
 * Algorithms in Python ([Repo](https://github.com/keon/algorithms))
 * Data Structure and Algorithms ([repo](https://github.com/TheAlgorithms/Python))
-
+* Machine Learning Resource ([repo](https://github.com/josephmisiti/awesome-machine-learning))
 
 ## Interviews
 * SQL Interview Resources ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Interviews/SQLInterviewPrep.docx))
