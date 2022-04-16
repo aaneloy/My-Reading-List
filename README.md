@@ -21,7 +21,7 @@ Stuff I'm currently reading...
 * Dimension Reduction ([repo](https://github.com/heucoder/dimensionality_reduction_alo_codes))
 
 
-##Projects
+## Projects
 * [ML certification projects](https://github.com/XandraV/ibm-machine-learning-certificate-projects)
 
 ## Interviews
