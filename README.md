@@ -39,4 +39,8 @@ Stuff I'm currently reading...
 ## Courses
 * [CS109:Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
 
+## Tutorials
+* [Machine Learning Examples](https://github.com/lazyprogrammer/machine_learning_examples)
+
+
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
