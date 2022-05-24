@@ -26,7 +26,7 @@ Stuff I'm currently reading...
 
 ## Interviews
 * SQL Interview Resources ([pdf](https://github.com/aaneloy/My-Reading-List/tree/main/Interviews/SQLInterviewPrep.docx))
-* [interviews](https://github.com/aaneloy/interviews)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Useful Websites
 * [Colah Blog](https://colah.github.io/)
