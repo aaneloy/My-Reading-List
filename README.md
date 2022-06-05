@@ -37,8 +37,8 @@ Stuff I'm currently reading...
 * [CVPR 2021](https://github.com/amusi/CVPR2021-Papers-with-Code)
 
 ## Public Datasets
-
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [AD Datasets](https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets)
 
 ## Courses
 * [CS109:Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
