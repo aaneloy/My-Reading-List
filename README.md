@@ -9,7 +9,7 @@ Stuff I'm currently reading...
 * Hands-On Data Visualization ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code.pdf))
 * Python for Everybody ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/pythonlearn.pdf))
 * Introduction to Variational Autoencoder ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/1906.02691.pdf))
-
+* [The Good Research Code Handbook](https://goodresearch.dev/)
 
 ## Cheat-Sheets
 * Machine Learning Cheat-Sheet ([pdf](https://github.com/soulmachine/machine-learning-cheat-sheet))
