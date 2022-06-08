@@ -32,7 +32,7 @@ Stuff I'm currently reading...
 ## Useful Websites
 * [Colah Blog](https://colah.github.io/)
 * [Probability Distribution Explorer](https://distribution-explorer.github.io/)
-
+* [LaTex Drawing](https://davidstutz.de/illustrating-convolutional-neural-networks-in-latex-with-tikz/)
 ## Papers with Code
 * [CVPR 2021](https://github.com/amusi/CVPR2021-Papers-with-Code)
 
