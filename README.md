@@ -10,6 +10,7 @@ Stuff I'm currently reading...
 * Python for Everybody ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/pythonlearn.pdf))
 * Introduction to Variational Autoencoder ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/1906.02691.pdf))
 * [The Good Research Code Handbook](https://goodresearch.dev/)
+* [Scientific Computing in Python](https://sebastianraschka.com/blog/2020/numpy-intro.html) 
 
 ## Cheat-Sheets
 * Machine Learning Cheat-Sheet ([pdf](https://github.com/soulmachine/machine-learning-cheat-sheet))
