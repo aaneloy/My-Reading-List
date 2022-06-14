@@ -35,8 +35,11 @@ Stuff I'm currently reading...
 * [Colah Blog](https://colah.github.io/)
 * [Probability Distribution Explorer](https://distribution-explorer.github.io/)
 * [LaTex Drawing](https://davidstutz.de/illustrating-convolutional-neural-networks-in-latex-with-tikz/)
+* [Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
+
 ## Papers with Code
 * [CVPR 2021](https://github.com/amusi/CVPR2021-Papers-with-Code)
+
 
 ## Public Datasets
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
