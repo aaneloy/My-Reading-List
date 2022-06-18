@@ -34,6 +34,7 @@ Stuff I'm currently reading...
 ## Useful Websites
 * [Colah Blog](https://colah.github.io/)
 * [Probability Distribution Explorer](https://distribution-explorer.github.io/)
+* [Detexify Latex](http://detexify.kirelabs.org/classify.html)
 * [LaTex Drawing](https://davidstutz.de/illustrating-convolutional-neural-networks-in-latex-with-tikz/)
 * [Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
 
