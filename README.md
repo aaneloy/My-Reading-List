@@ -11,7 +11,7 @@ Stuff I'm currently reading...
 * Introduction to Variational Autoencoder ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/1906.02691.pdf))
 * [The Good Research Code Handbook](https://goodresearch.dev/)
 * [Scientific Computing in Python](https://sebastianraschka.com/blog/2020/numpy-intro.html) 
-*[Reproducible DL](https://www.sscardapane.it/teaching/reproducibledl/)
+* [Reproducible DL](https://www.sscardapane.it/teaching/reproducibledl/)
 
 ## Cheat-Sheets
 * Machine Learning Cheat-Sheet ([pdf](https://github.com/soulmachine/machine-learning-cheat-sheet))
