@@ -4,6 +4,7 @@ Stuff I'm currently reading...
 ## Books, Lectures, Notes
 * Deep Learning Interviews ([arXiv](https://arxiv.org/abs/2201.00650))
 * Mathematics for Machine Learning ([pdf](http://gwthomas.github.io/docs/math4ml.pdf))
+* [Learn X in Y: Python](https://learnxinyminutes.com/docs/python/)
 * Pattern Recognition and Machine Learning ([pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=aWFtYW5kaS5ldXxpc2N8Z3g6MjViZDk1NGI1NjQzOWZiYQ))
 * Cracking the Coding Interview ([amazon](https://www.amazon.ca/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=asc_df_0984782850/?tag=googleshopc0c-20&linkCode=df0&hvadid=293006031037&hvpos=&hvnetw=g&hvrand=13483680911297688222&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001206&hvtargid=pla-388890317700&psc=1))
 * Hands-On Data Visualization ([pdf](https://github.com/aaneloy/My-Reading-List/blob/main/Books/hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code.pdf))
@@ -12,6 +13,7 @@ Stuff I'm currently reading...
 * [The Good Research Code Handbook](https://goodresearch.dev/)
 * [Scientific Computing in Python](https://sebastianraschka.com/blog/2020/numpy-intro.html) 
 * [Reproducible DL](https://www.sscardapane.it/teaching/reproducibledl/)
+
 
 ## Cheat-Sheets
 * Machine Learning Cheat-Sheet ([pdf](https://github.com/soulmachine/machine-learning-cheat-sheet))
