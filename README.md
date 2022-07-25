@@ -53,6 +53,6 @@ Stuff I'm currently reading...
 
 ## Tutorials
 * [Machine Learning Examples](https://github.com/lazyprogrammer/machine_learning_examples)
-
+* [AIMS2020](https://github.com/gkioxari/aims2020_visualrecognition)
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
