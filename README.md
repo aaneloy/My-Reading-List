@@ -23,6 +23,7 @@ Stuff I'm currently reading...
 * Data Structure and Algorithms ([repo](https://github.com/TheAlgorithms/Python))
 * Machine Learning Resource ([repo](https://github.com/josephmisiti/awesome-machine-learning))
 * Dimension Reduction ([repo](https://github.com/heucoder/dimensionality_reduction_alo_codes))
+* [LateX Math](https://github.com/aaneloy/My-Reading-List/blob/main/Resources/LaTeX-Math-Symbols.pdf)
 
 
 ## Projects
@@ -39,7 +40,6 @@ Stuff I'm currently reading...
 * [Detexify Latex](http://detexify.kirelabs.org/classify.html)
 * [LaTex Drawing](https://davidstutz.de/illustrating-convolutional-neural-networks-in-latex-with-tikz/)
 * [Semi-Supervised Learning](https://yassouali.github.io/ml-blog/deep-semi-supervised/)
-* [LateX Math](https://github.com/aaneloy/My-Reading-List/blob/main/Resources/LaTeX-Math-Symbols.pdf)
 
 
 ## Papers with Code
